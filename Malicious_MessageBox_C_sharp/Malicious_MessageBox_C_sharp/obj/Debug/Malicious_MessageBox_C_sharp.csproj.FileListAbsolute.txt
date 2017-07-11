@@ -1,0 +1,6 @@
+c:\users\big daddy\documents\visual studio 2017\Projects\Malicious_MessageBox_C_sharp\Malicious_MessageBox_C_sharp\bin\Debug\Malicious_MessageBox_C_sharp.exe.config
+c:\users\big daddy\documents\visual studio 2017\Projects\Malicious_MessageBox_C_sharp\Malicious_MessageBox_C_sharp\bin\Debug\Malicious_MessageBox_C_sharp.exe
+c:\users\big daddy\documents\visual studio 2017\Projects\Malicious_MessageBox_C_sharp\Malicious_MessageBox_C_sharp\bin\Debug\Malicious_MessageBox_C_sharp.pdb
+c:\users\big daddy\documents\visual studio 2017\Projects\Malicious_MessageBox_C_sharp\Malicious_MessageBox_C_sharp\obj\Debug\Malicious_MessageBox_C_sharp.exe
+c:\users\big daddy\documents\visual studio 2017\Projects\Malicious_MessageBox_C_sharp\Malicious_MessageBox_C_sharp\obj\Debug\Malicious_MessageBox_C_sharp.pdb
+c:\users\big daddy\documents\visual studio 2017\Projects\Malicious_MessageBox_C_sharp\Malicious_MessageBox_C_sharp\obj\Debug\Malicious_MessageBox_C_sharp.csprojResolveAssemblyReference.cache
